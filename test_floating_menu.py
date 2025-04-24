@@ -1,4 +1,5 @@
 from selenium import webdriver
+chromedriver_path = r'C:\Users\indig\Downloads\floating_menu_test\tests\chromedriver\chromedriver.exe'
 from selenium.webdriver.common.by import By
 import time
 
